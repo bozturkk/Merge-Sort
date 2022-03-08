@@ -4,14 +4,14 @@ Patika.dev için Veri Yapıları ve Algoritmalar Merge Sort Projesi
 # [16,21,11,8,12,22] -> Merge Sort
 ## **1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.**
 
-* **input [16, 21, 11, 8, 12, 22]**
+**input [16, 21, 11, 8, 12, 22]**
 
 * **1**
-[16,21,11]
-[16] [21,11]
-[16] [21] [11]
-[16] [11,21]	
-[16,11,21]
+* [16,21,11]
+* [16] [21,11]
+* [16] [21] [11]
+* [16] [11,21]	
+* [16,11,21]
 
 * **2**
 * [8,12,22]
