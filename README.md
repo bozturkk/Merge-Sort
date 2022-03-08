@@ -20,7 +20,7 @@ Patika.dev için Veri Yapıları ve Algoritmalar Merge Sort Projesi
 * [8,12] [22]	
 * [8,12,22]
 
-* **output: [8,11,12,16,21,22]**
+**output: [8,11,12,16,21,22]**
 
 ## 2. **Big-O gösterimini yazınız.**
 * O(nlogn)
